@@ -1,4 +1,4 @@
-theme               : Merlot
+theme               : merlot
 # Where things are
 source              : .
 destination         : ./_site
