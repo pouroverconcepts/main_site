@@ -1,3 +1,4 @@
+theme               : Merlot
 # Where things are
 source              : .
 destination         : ./_site
